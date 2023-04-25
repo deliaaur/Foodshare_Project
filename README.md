@@ -14,7 +14,6 @@ Web application that helps large retail shops who are willing to donate food ite
 </p>
 
 ## 📝 Table of Contents
-- [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Built Using](#built_using)
@@ -56,7 +55,3 @@ DEBUG=smarthack:* npm start
 	* [Express.js](https://expressjs.com/)
 	* [MySQL](https://www.mysql.com/)
 
-## ✍️ Authors <a name = "authors"></a>
-- [Stefan Cucu](https://github.com/StefanCucu) - Front-end & back-end dev
-- [Mihnea Tudor](https://github.com/HyperLucario/) - Front-end dev, presentation
-- [Andrei Fărcăsanu](https://github.com/Andrefty) - Front-end dev, presentation
