@@ -17,7 +17,6 @@ Web application that helps large retail shops who are willing to donate food ite
 - [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
 The application features three types of accounts
